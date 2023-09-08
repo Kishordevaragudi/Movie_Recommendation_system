@@ -96,7 +96,7 @@ https://github.com/entbappy/Movie-Recommender-System-Using-Machine-Learning.git
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n movie python=3.7.10 -y
+conda create -n movie python=3.9 -y
 ```
 
 ```bash

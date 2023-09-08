@@ -61,6 +61,11 @@ here is a demo,
 
 
 # Demo:
+![1](https://github.com/Kishordevaragudi/Movie_Recommendation_system/assets/105155723/d390b664-ea72-4277-a0f4-8f218e84c2b9)
+
+![2](https://github.com/Kishordevaragudi/Movie_Recommendation_system/assets/105155723/b6a2d85d-1ca5-4503-8381-70c81a6fd1f1)
+
+![3](https://github.com/Kishordevaragudi/Movie_Recommendation_system/assets/105155723/47692b1c-07a2-4067-ab93-87d786b12348)
 
 
 
